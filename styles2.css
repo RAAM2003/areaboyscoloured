@@ -1,0 +1,49 @@
+body
+{
+  background-color: #D3E4CD;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 90%;
+}
+h1
+{
+  color: #F2DDC1;
+}
+h2
+{
+  color: #F2DDC1;
+}
+h3
+{
+  color: #F2DDC1;
+}
+img {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p
+{
+  font-size: 2.5vw;
+}
+ul
+{
+  font-size: 2vw;
+}
+a{
+  font-size: 2vw
+
+}
+div
+{
+  padding: auto;
+  border-radius: 24px;
+  background-color: #99A799;
+}

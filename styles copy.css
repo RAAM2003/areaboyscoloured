@@ -1,0 +1,52 @@
+body
+{
+  background-color: #D7E9F7;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 90%;
+}
+h1
+{
+  color: #11324D;
+}
+h2
+{
+  color: #11324D;
+}
+h3
+{
+  color: #11324D;
+}
+img {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 10px solid transparent;
+  border-radius: 10px;
+  border-image: url("https://www.fonewalls.com/wp-content/uploads/2020/09/Border-AMOLED-Black-Neon-Wallpaper-81-300x585.jpg") 30 round;
+}
+p
+{
+  font-size: 2.5vw;
+}
+ul
+{
+  font-size: 2vw;
+}
+a{
+  font-size: 2vw
+
+}
+div
+{
+  padding: auto;
+  border-radius: 24px;
+  background-color: #98BAE7;
+}
